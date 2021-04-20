@@ -1,2 +1,2 @@
-# API-Donut-Shop
+# Donut-Shop
 Created with CodeSandbox
